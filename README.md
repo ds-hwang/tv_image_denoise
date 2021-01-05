@@ -1,5 +1,5 @@
 # tv_image_denoise
-Total Variation Regularization Algorithms for Images Denoise
+Tensorflow v2: Total Variation Regularization Algorithms for Images Denoise
 
 ## Results
 ![denoise img](https://raw.github.com/ds-hwang/tv_image_denoise/master/imgs/denoise.png)
